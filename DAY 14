@@ -1,11 +1,20 @@
+# 30-DAYS-OF-CODE
+
+#HACKERRANK
+
+#Sock Merchant
+
+#ABHIYUVI
+
+#Java
+
+
+
 import java.math.BigInteger;
 import java.util.BitSet;
 import java.util.Scanner;
 
-/**
- * @author Kanahaiya Gupta
- *
- */
+
 public class ACMICPCTeam {
 
     // 1st approach
